@@ -15,6 +15,16 @@ ul {
 .wrapper {
   background-color: #eee8d5;
 }
+#contents,#favs, #facts {
+  color: #93a1a1;
+}
+.wrapper>.dfn {
+  background-color: #b58900;
+}
+
+p+strong {
+  color: #fff;
+}
 
 
 img {
