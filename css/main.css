@@ -1,0 +1,45 @@
+html {
+  background-color:#fdf6e3;
+}
+
+header,footer {
+  font-size: 1.5rem;
+}
+
+ul {
+  font-family: sans-serif;
+}
+.logo {
+  text-transform: uppercase;
+}
+.wrapper {
+  background-color: #eee8d5;
+}
+
+
+img {
+  width: 100%;
+}
+
+h2 {
+  color:#5d8432;
+  text-transform: uppercase;
+}
+
+figcaption {
+  text-align: center;
+  font-size: .8rem;
+  font-style: italic;
+}
+
+a {
+  color:#793284;
+}
+
+a:hover {
+  color:#b42885;
+}
+
+.dino {
+  font-size: 1rem;
+}
