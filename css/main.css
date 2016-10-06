@@ -50,30 +50,6 @@ ol li:last-child{
   background-color: #586e75;
 }
 
-.types li:
-img {
-  width: 100%;
-}
-
-h2 {
-  color:#5d8432;
-  text-transform: uppercase;
-}
-
-figcaption {
-  text-align: center;
-  font-size: .8rem;
-  font-style: italic;
-}
-
-a {
-  color:#793284;
-}
-
-a:hover {
-  color:#b42885;
-}
-
-.dino {
-  font-size: 1rem;
+.types li:nth-child(3n){
+  background-color: #d04b16;
 }
